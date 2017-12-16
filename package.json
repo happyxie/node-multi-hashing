@@ -1,0 +1,33 @@
+{
+    "name": "multi-hashing",
+    "version": "0.0.9",
+    "main": "multihashing",
+    "author": {
+        "name": "Matthew Little",
+        "email": "zone117x@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/happyxie/node-multi-hashing.git"
+    },
+    "dependencies" : {
+        "bindings" : "*"
+    },
+    "keywords": [
+        "scrypt",
+        "scryptjane",
+        "script-n",
+        "yescrypt",
+        "m7m",        
+        "x11",
+        "quark",
+        "keccak_hash",
+        "skein",
+        "bcrypt",
+        "keccak",
+        "blake",
+        "shavite",
+        "fugue",
+        "sha1"
+    ]
+}
